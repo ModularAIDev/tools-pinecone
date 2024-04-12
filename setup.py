@@ -11,7 +11,7 @@ install_requires = read_requirements()
 
 setup(
     name='aic_tools_pinecone',
-    version='0.0.1',
+    version='1.0.1',
     packages=find_packages(),
     description='Pinecone tools for AI Characters',
     long_description_content_type='text/markdown',
